@@ -60,18 +60,18 @@ e77Park.addTo(uesMap);
 
 var latlngs = [
     [40.76446, -73.96766], // 119-121 East 62nd Street/  Bulgarian Consulate-General
-    [40.76766, -73.96938], // 12 East 65th Street / Pakistani Consulate-General
-    [40.76955, -73.96808], // 5 East 68th Street / Indonesian Consulate-General
-    [40.76957, -73.96605], // 27 East 69th Street / Consulate of Cape Verde in New York (Lucretia Lord Strauss House)
-    [40.76951, -73.96605], // 31 East 69th Street / Indian Consulate
-    [40.76885, -73.96446], // 111 East 69th Street / Permanent Mission of Mali to the United Nations
-    [40.77126, -73.96724], // 107 East 70th Street / "The Frick Collection/James B Duke House"
-    [40.77266, -73.96541], // 22 EAST 73rd Street / Permanent Mission of Cameroon to the United Nations
-    [40.77158, -73.96495], // 39 East 72nd Street / Austrian Consulate-General
-    [40.7754, -73.96404], // 6 East 77th Street /Mongolian Consulate-General
-    [40.77581, -73.96422], // 10 East 77th Street / India UN Mision; and Myanmar
-    [40.77471, -73.96435], // 9 East 76th Street / Lebanse Consulate-General
-    [40.77363, -73.96618] // 927 Fifth Avenue / Cultural Services of the French Embassy (Whitney Payne Mansion)
+    [40.76756098500457, -73.96942189036935], // 12 East 65th Street / Pakistani Consulate-General
+    [40.76983995969507, -73.9679219589566], // 5 East 68th Street / Indonesian Consulate-General
+    [40.76982416174572, -73.96596202828263], // 27 East 69th Street / Consulate of Cape Verde in New York (Lucretia Lord Strauss House)
+    [40.76980660705194, -73.96577868092406], // 31 East 69th Street / Indian Consulate
+    [40.769103316875174, -73.9642292178509], // 111 East 69th Street / Permanent Mission of Mali to the United Nations
+    [40.769792165449026, -73.96389538652865], // 107 East 70th Street / "The Frick Collection/James B Duke House"
+    [40.77257679336879, -73.9654278505117], // 22 EAST 73rd Street / Permanent Mission of Cameroon to the United Nations
+    [40.77185249209573, -73.96469852877325], // 39 East 72nd Street / Austrian Consulate-General
+    [40.775297463732464, -73.9640678508227], // 6 East 77th Street /Mongolian Consulate-General
+    [40.77523127789917, -73.96391005661201], // 10 East 77th Street / India UN Mision; and Myanmar
+    [40.774924462653374, -73.96414510576206], // 9 East 76th Street / Lebanse Consulate-General
+    [40.77346003904656, -73.96600262670279] // 927 Fifth Avenue / Cultural Services of the French Embassy (Whitney Payne Mansion)
 ];
 
 // Create the snaking polyline
