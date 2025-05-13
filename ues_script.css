@@ -1,0 +1,65 @@
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+ #map {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #ues70nyc {
+    height: 500px;
+    width: 100%;
+  }
+  .leaflet-control-geocoder {
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .leaflet-control-geocoder-icon {
+    background-color: #0078ff;
+    color: white;
+  }
+  .leaflet-control-geocoder-icon:hover {
+    background-color: #0056b3;
+  }
+  .leaflet-control-geocoder-form {
+    display: flex;
+    align-items: center;
+  }
+  .leaflet-control-geocoder-form input {
+    flex: 1;
+    margin-right: 5px;
+  }
+  .leaflet-control-geocoder-form button {
+    background-color: #0078ff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  .leaflet-control-geocoder-form button:hover {
+    background-color: #0056b3;
+  }
+  .leaflet-control-geocoder-icon {
+    background-color: #0078ff;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .leaflet-control-geocoder-icon:hover {
+    background-color: #0056b3;
+  }
+  .leaflet-control-geocoder-form {
+    display: flex;
+    align-items: center;
+  }
+  .leaflet-control-geocoder-form input {
+    flex: 1;
+    margin-right: 5px;
+  } 
